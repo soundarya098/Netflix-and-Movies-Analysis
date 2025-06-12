@@ -65,7 +65,7 @@ This project presents an exploratory data analysis (EDA) of Netflix and other mo
 
 ### 🎭 Release year vs Duration 
 
-     (https://github.com/user-attachments/assets/02f6db69-227c-4a68-9407-dde78d0530e2)
+     C:\Users\user\Pictures\Screenshots\Screenshot 2025-06-12 115717.png
 
 
 ### 📅 Top 10 Countries by Number of Titles
