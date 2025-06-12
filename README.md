@@ -80,6 +80,9 @@ This project presents an exploratory data analysis (EDA) of Netflix and other mo
       (https://github.com/user-attachments/assets/a6a03501-a812-4fb1-9f2f-23bee4808194)
 
 
+      script/add-grammar https://github.com/markhughes/vscode-lingo-director
+
+
 
 ## 👩‍💻 Author
 
