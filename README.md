@@ -63,14 +63,21 @@ This project presents an exploratory data analysis (EDA) of Netflix and other mo
 
 ## 📊 Sample Visualizations
 
-### 🎭 Genre Distribution
-![Genre Distribution](images/genre_distribution.png)
+### 🎭 Release year vs Duration 
 
-### 📅 Release Year Trend
-![Release Year Trend](images/release_year_trend.png)
+     (https://github.com/user-attachments/assets/02f6db69-227c-4a68-9407-dde78d0530e2)
 
-### 🌍 Top Producing Countries
-![Top Countries](images/top_countries.png)
+
+### 📅 Top 10 Countries by Number of Titles
+
+     (https://github.com/user-attachments/assets/9b08fcc4-b9f5-49d1-881a-3e2ec41bbcc9)
+
+     
+
+### 🌍 Distribution of Movie Durations
+
+      (https://github.com/user-attachments/assets/a6a03501-a812-4fb1-9f2f-23bee4808194)
+
 
 
 ## 👩‍💻 Author
