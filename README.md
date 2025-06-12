@@ -1,2 +1,81 @@
-# Netflix-and-Movies-Analysis
-A detailed exploratory data analysis (EDA) of Netflix and movie datasets using Python. This project uncovers patterns in genres, durations, release trends, and more through insightful visualizations using libraries like pandas, matplotlib, and seaborn.
+# 🎬 Netflix and Movies Analysis 📊
+
+This project presents an exploratory data analysis (EDA) of Netflix and other movie datasets using Python. It provides visual insights into trends like movie durations, release years, genre distributions, and much more.
+
+## 📁 Project Structure
+
+- `soundarya_Netflix and Movies Analysis.ipynb`: The Jupyter Notebook containing all the analysis and visualizations.
+- `requirements.txt`: List of libraries required to run this project.
+- `images/`:containing generated visualizations.
+
+## ✅ Objectives
+
+- Analyze the structure and patterns in Netflix and movie datasets.
+- Identify trends in genres, durations, ratings, etc.
+- Compare content over time and by region.
+- Create visualizations to support insights.
+
+## 🛠️ Technologies Used
+
+- Python 🐍
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+## 📊 Key Visualizations
+
+- Top genres on Netflix
+- Duration comparison of shows
+- Year-wise content addition
+- Ratings distribution
+
+## 📌 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/Netflix-and-Movies-Analysis.git
+   cd Netflix-and-Movies-Analysis
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Open Jupyter Notebook:
+   jupyter notebook
+   
+4. Run soundarya_Netflix and Movies Analysis.ipynb.
+
+ ##  📈 Results and Discussion
+  - Observed highest movie additions around 2019–2020.
+
+  - Dramas and Comedies dominate Netflix's genre share.
+
+  - US and India contribute significantly to content.
+
+  - Detailed discussion is available within the notebook's markdown cells.
+
+##  🔮 Future Scope
+  - Include sentiment analysis of user reviews.
+
+  - Deploy insights via an interactive dashboard (e.g., Streamlit/Power BI).
+
+  - Predict movie success based on cast, genre, and release time.
+
+## 📊 Sample Visualizations
+
+### 🎭 Genre Distribution
+![Genre Distribution](images/genre_distribution.png)
+
+### 📅 Release Year Trend
+![Release Year Trend](images/release_year_trend.png)
+
+### 🌍 Top Producing Countries
+![Top Countries](images/top_countries.png)
+
+
+## 👩‍💻 Author
+
+   Soundarya G M
+  
+
+   
