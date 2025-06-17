@@ -65,22 +65,24 @@ This project presents an exploratory data analysis (EDA) of Netflix and other mo
 
 ### 🎭 Release year vs Duration 
 
-     (https://github.com/user-attachments/assets/4afd37e8-f11a-4870-acf6-95ad08adb06c)
-     <br>
+   ![Screenshot 2025-06-12 115717](https://github.com/user-attachments/assets/f49a425c-bf73-4493-8004-cd433820b7d7)
+
+  <br>
 
 
 
 ### 📅 Top 10 Countries by Number of Titles
 
-     (https://github.com/user-attachments/assets/9b08fcc4-b9f5-49d1-881a-3e2ec41bbcc9)
-     <br>
+ ![Screenshot 2025-06-12 120033](https://github.com/user-attachments/assets/f566641f-cff6-4908-83ed-36fef99be4fa)
+  <br>
 
      
 
 ### 🌍 Distribution of Movie Durations
 
-      (https://github.com/user-attachments/assets/a6a03501-a812-4fb1-9f2f-23bee4808194)
-      <br>
+   ![Screenshot 2025-06-12 120142](https://github.com/user-attachments/assets/588e6c19-3d51-4618-aeb6-2f1627be037f)
+
+ <br>
 
 
 
